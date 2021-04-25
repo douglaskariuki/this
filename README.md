@@ -1,4 +1,4 @@
-[check 'this' out](img/img.jpeg)
+Check out the code examples [here](this.js)
 
 ## Global context
 In the global execution context (outside of any function), this refers to the global object whether in strict mode or not.
