@@ -1,5 +1,12 @@
+A function's this keyword behaves a little differently in JavaScript compared to other languages. It also has some differences between strict mode and non-strict mode.
+
 Check out the code examples [here](this.js)
+
+ES5 introduced the bind() method to set the value of a function's this regardless of how it's called.
+
 For the bind() method check the examples [here](bind.js)
+
+ES6 introduced arrow functions which don't provide their own this binding (it retains the this value of the enclosing lexical context).
 
 ## Global context
 In the global execution context (outside of any function), this refers to the global object whether in strict mode or not.
