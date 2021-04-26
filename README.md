@@ -1,4 +1,5 @@
 Check out the code examples [here](this.js)
+For the bind() method check the examples [here](bind.js)
 
 ## Global context
 In the global execution context (outside of any function), this refers to the global object whether in strict mode or not.
