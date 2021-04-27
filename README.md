@@ -6,6 +6,10 @@ ES5 introduced the bind() method to set the value of a function's this regardles
 
 For the bind() method check the examples [here](bind.js)
 
+For the apply() method check the code [here](apply.js)
+
+For the call() method check the code [here](call.js)
+
 ES6 introduced arrow functions which don't provide their own this binding (it retains the this value of the enclosing lexical context).
 
 ## Global context
